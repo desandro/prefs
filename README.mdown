@@ -1,0 +1,33 @@
+Programs I installed
+
+Quicksilver
+TextMate 2
+TotalTerminal
+TotalFinder
+Dock Dodger
+Dropbox
+GitX L
+
+Preferences
+
+re-map Caps Lock to Ctrl
+
+
+Terminal to Dock Dodger
+
+copied over dotfiles - github.com/desandro/dotfiles
+
+Turn on fast-account switching to easily lock screen
+
+enable apache http://maestric.com/doc/mac/apache_php_mysql_snow_leopard
+
+add TextMate Bundles https://github.com/desandro/textmate-bundles
+
+install Jekyll
+  install Pygments
+  
+add Neo Vision chrome extension
+
+start apache
+change home directory to 755, if necessary
+view Info on user folder `/username/` and make sure it is still Read & Write permissions
