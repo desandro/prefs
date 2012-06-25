@@ -73,6 +73,8 @@ install Jekyll
   
 add Neo Vision chrome extension
 
+**Safari > Preferences > Advanced** Enable _Show Develop menu in menu bar_
+
 
 
 
