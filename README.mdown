@@ -1,25 +1,70 @@
-Programs I installed
+# Prefs
 
-Quicksilver
-TextMate 2
-TotalTerminal
-TotalFinder
-Dock Dodger
-Dropbox
-GitX L
+Personal preferences
 
-Preferences
+## Applications
 
-re-map Caps Lock to Ctrl
++ Quicksilver
++ TextMate 2
++ TotalTerminal
++ TotalFinder
++ Dock Dodger
++ Dropbox
++ GitX L
+
+## System Preferences
+
+### Keyboard
+
++ **> Keyboard >** Full Keyboard Access: All controls
++ **> Keyboard > Modifier Keys >** Caps Lock Key: ^ Control
++ **> Keyboard Shortcuts > Mission Control >**
+  - Show Desktop: Ctrl + Down
+  - Move left a space: Cmd + Ctrl + Left
+  - Move right a space: Cmd + Ctrl + Right
+
+### Sharing
+
+Rename machine to something short, yet awe-inspring.
+
+### Users & Groups
+
++ **> Login Options >** Enable Show fast user switching
+
+## Quicksilver
+
+### Triggers
+
+
+## Local Apache server
+
+Modify `/etc/apache2/httpd.conf` so that `/Users/username/projects` is the root home folder.
+
+Start apache (See [here](http://maestric.com/doc/mac/apache_php_mysql_snow_leopard))
+
+``` bash
+sudo apachectl start
+```
+
+Change home directory to 755, if necessary
+
+``` bash
+cd /Users
+chmod 755 username
+```
+
+This will break the home directory, but it can be re-set by viewing `/Users/` in Finder, clicking on the `username` folder, _View Info_ on it, then set File Permissions (Me) to **Read & Write**.
+
+Install [Windex](https://github.com/desandro/windex) for nice local directory listings
+
+
+
+## Everything else
 
 
 Terminal to Dock Dodger
 
 copied over dotfiles - github.com/desandro/dotfiles
-
-Turn on fast-account switching to easily lock screen
-
-enable apache http://maestric.com/doc/mac/apache_php_mysql_snow_leopard
 
 add TextMate Bundles https://github.com/desandro/textmate-bundles
 
@@ -28,6 +73,6 @@ install Jekyll
   
 add Neo Vision chrome extension
 
-start apache
-change home directory to 755, if necessary
-view Info on user folder `/username/` and make sure it is still Read & Write permissions
+
+
+
