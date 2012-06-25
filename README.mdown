@@ -57,7 +57,10 @@ This will break the home directory, but it can be re-set by viewing `/Users/` in
 
 Install [Windex](https://github.com/desandro/windex) for nice local directory listings
 
+## Ruby Gems
 
+[tumblr-rb](https://github.com/mwunsch/tumblr)
+[jekyll](https://github.com/mojombo/jekyll)
 
 ## Everything else
 
@@ -68,8 +71,7 @@ copied over dotfiles - github.com/desandro/dotfiles
 
 add TextMate Bundles https://github.com/desandro/textmate-bundles
 
-install Jekyll
-  install Pygments
+install Pygments
   
 add Neo Vision chrome extension
 
