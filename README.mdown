@@ -63,8 +63,8 @@ Install [Windex](https://github.com/desandro/windex) for nice local directory li
 
 ## Ruby Gems
 
-[tumblr-rb](https://github.com/mwunsch/tumblr)
-[jekyll](https://github.com/mojombo/jekyll)
++ [tumblr-rb](https://github.com/mwunsch/tumblr)
++ [jekyll](https://github.com/mojombo/jekyll)
 
 ## Everything else
 
