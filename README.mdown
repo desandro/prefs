@@ -57,6 +57,10 @@ This will break the home directory, but it can be re-set by viewing `/Users/` in
 
 Install [Windex](https://github.com/desandro/windex) for nice local directory listings
 
+## NPM
+
++ [uglifyjs](https://github.com/mishoo/uglifyjs)
+
 ## Ruby Gems
 
 [tumblr-rb](https://github.com/mwunsch/tumblr)
