@@ -11,6 +11,7 @@ Personal preferences
 + Dock Dodger
 + Dropbox
 + GitX L
++ [Rdio](http://www.rdio.com/apps/)
 
 ## System Preferences
 
