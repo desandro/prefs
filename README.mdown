@@ -66,14 +66,22 @@ Install [Windex](https://github.com/desandro/windex) for nice local directory li
 + [tumblr-rb](https://github.com/mwunsch/tumblr)
 + [jekyll](https://github.com/mojombo/jekyll)
 
+## TextMate
+
+Add TextMate Bundles https://github.com/desandro/textmate-bundles
+
+Have JSHint output appear in separate window, instead in main window
+
+``` bash
+defaults write com.macromates.TextMate.preview htmlOutputPlacement window
+```
+
 ## Everything else
 
 
 Terminal to Dock Dodger
 
 copied over dotfiles - github.com/desandro/dotfiles
-
-add TextMate Bundles https://github.com/desandro/textmate-bundles
 
 install Pygments
   
