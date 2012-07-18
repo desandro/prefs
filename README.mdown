@@ -90,6 +90,6 @@ add Neo Vision chrome extension
 
 **Safari > Preferences > Advanced** Enable _Show Develop menu in menu bar_
 
-
+[QLMarkdown](https://github.com/toland/qlmarkdown)
 
 
