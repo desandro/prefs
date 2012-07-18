@@ -4,13 +4,13 @@ Personal preferences
 
 ## Applications
 
-+ Quicksilver
-+ TextMate 2
-+ TotalTerminal
-+ TotalFinder
-+ Dock Dodger
-+ Dropbox
-+ GitX L
++ [Quicksilver](http://qsapp.com/)
++ [TextMate 2](http://macromates.com/)
++ [TotalTerminal](http://totalterminal.binaryage.com/)
++ [TotalFinder](http://totalfinder.binaryage.com/)
++ [Dock Dodger](http://foggynoggin.com/dockdodger)
++ [Dropbox](http://www.dropbox.com)
++ [GitX (brotherbard fork)](https://github.com/brotherbard/gitx/downloads)
 + [Rdio](http://www.rdio.com/apps/)
 
 ## System Preferences
