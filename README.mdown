@@ -92,4 +92,4 @@ add Neo Vision chrome extension
 
 [QLMarkdown](https://github.com/toland/qlmarkdown)
 
-
+IE7-9 in virtual machines thanks to https://github.com/xdissent/ievms
