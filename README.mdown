@@ -61,6 +61,7 @@ Install [Windex](https://github.com/desandro/windex) for nice local directory li
 ## NPM
 
 + [uglifyjs](https://github.com/mishoo/uglifyjs)
++ [jshint](https://github.com/jshint/node-jshint/)
 
 ## Ruby Gems
 
