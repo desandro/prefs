@@ -7,6 +7,7 @@ Personal preferences
 + [Dock Dodger](http://foggynoggin.com/dockdodger)
 + [Dropbox](http://www.dropbox.com)
 + [GitX (brotherbard fork)](https://github.com/brotherbard/gitx/downloads)
++ [Grand Perspective](http://grandperspectiv.sourceforge.net/)
 + [Quicksilver](http://qsapp.com/)
 + [Rdio](http://www.rdio.com/apps/)
 + [TextMate 2](http://macromates.com/)
