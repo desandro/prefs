@@ -97,3 +97,5 @@ add Neo Vision chrome extension
 IE7-9 in virtual machines thanks to https://github.com/xdissent/ievms
 
 [KeyRemap4MacBook](http://pqrs.org/macosx/keyremap4macbook/) for speedy key repeats
+
+[Permanently Prevent OS X 10.7 Lion from ever Re-Opening Apps After a Restart](http://www.mikeindustries.com/blog/archive/2012/03/how-to-permanently-prevent-os-x-10.7-lion-from-ever-re-opening-apps-after-a-restart)
