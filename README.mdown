@@ -24,6 +24,15 @@ Personal preferences
   - Show Desktop: Ctrl + Down
   - Move left a space: Cmd + Ctrl + Left
   - Move right a space: Cmd + Ctrl + Right
++ **> Keyboard Shortcuts >**
+> Select 'Application Shortcuts' from the left listbox
+> Click '+' below right listbox
+>
+> Select 'All Applications' for 'Application' input box
+> Type 'Paste and Match Style' into the 'Menu Title' input box
+> In the 'Keyboard Shortcut' input box, pretend that you are about to paste something by typing command-v. There should now be the cloverleaf command sign followed by a -v in this box.
+
+- via [mmdei on metafilter](http://ask.metafilter.com/187733/OSX-How-to-copy-plaintext-always-everywhere-without-exception#2702700)
 
 ### Sharing
 
@@ -87,7 +96,7 @@ Terminal to Dock Dodger
 copied over dotfiles - github.com/desandro/dotfiles
 
 install Pygments
-  
+
 add Neo Vision chrome extension
 
 **Safari > Preferences > Advanced** Enable _Show Develop menu in menu bar_
