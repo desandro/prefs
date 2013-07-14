@@ -4,12 +4,13 @@ Personal preferences
 
 ## Applications
 
-+ [Dock Dodger](http://foggynoggin.com/dockdodger)
 + [Dropbox](http://www.dropbox.com)
++ DragonDrop
 + [GitX (brotherbard fork)](https://github.com/brotherbard/gitx/downloads)
 + [Grand Perspective](http://grandperspectiv.sourceforge.net/)
 + [Quicksilver](http://qsapp.com/)
 + [Rdio](http://www.rdio.com/apps/)
++ Sparrow
 + [TextMate 2](http://macromates.com/)
 + [TotalFinder](http://totalfinder.binaryage.com/)
 + [TotalTerminal](http://totalterminal.binaryage.com/)
@@ -50,6 +51,9 @@ Rename machine to something short, yet awe-inspring.
 ## Local Apache server
 
 Modify `/etc/apache2/httpd.conf` so that `/Users/username/projects` is the root home folder.
+
+    # enable .htaccess
+    AllowOverride All
 
 Start apache (See [here](http://maestric.com/doc/mac/apache_php_mysql_snow_leopard))
 
