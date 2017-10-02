@@ -55,6 +55,8 @@ Modify `/etc/apache2/httpd.conf` so that `/Users/username/projects` is the root 
     # enable .htaccess
     AllowOverride All
 
+Stub out `# Require all denied`.
+
 Start apache (See [here](http://maestric.com/doc/mac/apache_php_mysql_snow_leopard))
 
 ``` bash
