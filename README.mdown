@@ -74,6 +74,15 @@ This will break the home directory, but it can be re-set by viewing `/Users/` in
 
 Install [Windex](https://github.com/desandro/windex) for nice local directory listings
 
+Add no extension redirects for `.html`
+
+```
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html
+```
+
 ## NPM
 
 + [grunt](https://github.com/cowboy/grunt)
