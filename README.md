@@ -18,6 +18,9 @@ _Personal preferences._ I use this list when I get a new computer.
 + **Keyboard > Modifier Keys >** Caps Lock Key: ^ Control
 + **Keyboard > Shortcuts > Keyboard >** Full Keyboard Access: All controls
 + **Keyboard > Text >** Disable Correct spelling automatically and Capitalize words automatically
++ **Keyboard > Shortcuts > Mission Control** Change _Move left a space_ to `Ctrl + Cmd + Left`, and likewise for right. Resolves conflict with moving by word in Textmate
+
+**Accessibility > Zoom >** Disable _Smooth images_
 
 Disabling pasting with style (via [mmdei on metafilter](http://ask.metafilter.com/187733/OSX-How-to-copy-plaintext-always-everywhere-without-exception#2702700))
 
