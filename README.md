@@ -58,6 +58,8 @@ Install [dotfiles](https://github.com/desandro/dotfiles)
 
 ## TextMate
 
+Install my **Sunset DD** theme
+
 **TextMate > Preferences > Bundles >** Enable:
 
 + Markdown (GitHub)
@@ -65,8 +67,9 @@ Install [dotfiles](https://github.com/desandro/dotfiles)
 
 Disable un-used bundles
 
-## Everything else
+Remove Baskerville serif font family in Markdown. Go to **Bundles > Edit Bundles... > Themes > Settings**. Remove `fontName` setting.
 
+## Everything else
 
 + **Safari > Preferences > Advanced** Enable _Show Develop menu in menu bar_
 + Install [ievms](https://github.com/xdissent/ievms) for IE & Edge in virtual machines
