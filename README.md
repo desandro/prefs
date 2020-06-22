@@ -69,6 +69,8 @@ Disable un-used bundles
 
 Remove Baskerville serif font family in Markdown. Go to **Bundles > Edit Bundles... > Themes > Settings**. Remove `fontName` setting.
 
+Enable _Remove trailing whitespace_ key command. Go to **Bundles > Edit Bundles.. > Text > Converting / Striping > Remove Trailing Spaces in Document / Selection**. Set Key Equivalent
+
 ## Everything else
 
 + **Safari > Preferences > Advanced** Enable _Show Develop menu in menu bar_
