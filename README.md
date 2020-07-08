@@ -65,6 +65,10 @@ Install my **Sunset DD** theme
 + Markdown (GitHub)
 + Mustache
 
+Install
+
++ [javascript-eslint.tmbundle](https://github.com/natesilva/javascript-eslint.tmbundle). Add location of `which node` to **Preferences > Variables**. In JavaScript ESLint bundle editor, disable _Save & Validate_. Change key commands for _Validate with ESLint_ and _Automatically Fix Problems_ to `Cmd + K` and `Shift + Cmd + K`.
+
 Disable un-used bundles
 
 Remove Baskerville serif font family in Markdown. Go to **Bundles > Edit Bundles... > Themes > Settings**. Remove `fontName` setting.
