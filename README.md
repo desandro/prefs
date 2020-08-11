@@ -67,6 +67,7 @@ Install my **Sunset DD** theme
 
 Install
 
++ [savetheclocktower/javascript.tmbundle](https://github.com/savetheclocktower/javascript.tmbundle/tree/overhaul). See [javascript.tmbundle issue #63](https://github.com/textmate/javascript.tmbundle/pull/63). Disable/remove default JavaScript bundle before installing this one.
 + [javascript-eslint.tmbundle](https://github.com/natesilva/javascript-eslint.tmbundle). Add location of `which node` to **Preferences > Variables**. In JavaScript ESLint bundle editor, disable _Save & Validate_. Change key commands for _Validate with ESLint_ and _Automatically Fix Problems_ to `Cmd + K` and `Shift + Cmd + K`.
 
 Disable un-used bundles
